@@ -31,5 +31,9 @@ public class HttpResult {
         public void setContent(String content) {
                 this.content = content;
         }
+
+        public static void main(String[] args) {
+                System.out.println("hello");
+        }
         
 }
